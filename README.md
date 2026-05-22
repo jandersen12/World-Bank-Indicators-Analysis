@@ -3,7 +3,6 @@
 > Exploring correlations between key development indicators to inform policy and program design through nuanced analysis.
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue)]()  
-[Pandas](https://img.shields.io/badge/Pandas-3.0-purple)()
 [![UC Berkeley MIDS](https://img.shields.io/badge/UC%20Berkeley-MIDS-gold)]()
 
 ---
